@@ -1,0 +1,18 @@
+.blue{
+  color: #fff;
+  background-color: blue;
+}
+.purple{
+  background-color: purple;
+  color: #fff;
+}
+.priceList{
+  float: left;
+}
+.priceList>ol>li{
+  margin-top: 5px;
+  padding: 5px;
+}
+.getPriceButton{
+  padding: 7px;
+}
